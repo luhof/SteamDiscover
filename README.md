@@ -1,0 +1,2 @@
+# SteamDiscover
+Crappy Steam Companion
