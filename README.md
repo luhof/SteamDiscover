@@ -1,5 +1,6 @@
 # SteamDiscover
 Steam products crawler
+try it here : http://luhof.fr/experiments/steam/
 
 ##IMAC 2015
 this was a school projet.<br/>
